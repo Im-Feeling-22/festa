@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novidades</title>
+    <link rel="icon" type="image/PNG" href="../img/Logo22.png">
+    <link rel="stylesheet" href="../css/estilo.css">
+
+</head>
+<body>
+    
+    <header class="navbar">
+        <div class="logo">
+            <div class="logo1">
+                <h1>Let's</h1> 
+            </div>
+            <div class="logo2">
+                <h1>Feeling 22</h1>
+            </div>
+        </div>
+
+        <div class="menu">
+            <a href="index.html">Home</a>
+            <a href="awards.html">Awards</a>
+            <a href="fotos.html">Fotos</a>
+            <a href="playlist.html">Playlist</a>
+            <a id="botao" href="formulario.html">Contato</a>
+        </div>
+    </header>
+
+    <section class="novidades-section">
+        <h3>PLAYLIST</h3>
+        <p>Aqui temos a playlist da festa e a lsita de musicas do karaoke.</p>
+
+        <div class="comentario">
+
+            <div class="novidade-card">
+                <h4>Playlist da Festa (Spotify)</h4>
+            <div class="codigo-colapsado">
+                <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+                    <a href="https://open.spotify.com/playlist/0a9Vx5aZrRpxVJFmXO3P38?si=LP0zbo6YQBCSmBFETL1e2w&pi=H-FTosfrQOCtT">
+                        <img src="../img/spotify.png" style="display: flex; flex-direction: column; border-radius: 10px;">
+                    </a>
+                </div>        
+            </div>
+            </div>
+
+            <div class="novidade-card">
+                <h4>Catálogo de Músicas (Karaoke)</h4>
+                <div class="barra-pesquisa">
+                    <input 
+                    type="text" 
+                    id="pesquisa"
+                    placeholder="Pesquisar música ou cantor..."
+                    >
+                </div>
+                
+            <div class="codigo-colapsado">
+                <table class="tabela-musicas">
+                    <thead>
+                        <tr>
+                            <th>Código</th>
+                            <th>Cantor</th>
+                            <th>Música</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="catalogo">
+                    </tbody>
+                </table>
+            </div>
+            </div>
+        </div>
+    </section>
+    <script src="../js/catalogo.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quem Sou</title>
+    <link rel="icon" type="image/PNG" href="../img/Logo22.png">
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <div class="logo1">
+                <h1>Let's</h1> 
+            </div>
+            <div class="logo2">
+                <h1>Feeling 22</h1>
+            </div>
+        </div> 
+
+        <div class="menu">
+            <a href="index.html">Home</a>
+            <a href="awards.html">Awards</a>
+            <a style="color: #FFC0CB", href="fotos.html">Fotos</a>
+            <a href="playlist.html">Playlist</a>
+            <a id="botao" href="formulario.html">Contato</a>
+        </div>
+    </header>
+
+    <section class="secao-galeria">
+        <h3>Galeria da Festa</h3>
+        <input type="file" id="fileInput">
+            <button id="uploadBtn">Enviar Foto</button>
+        <div id="galeria"> <!-- As imagens enviadas pelo JS serão inseridas aqui --> </div>
+        <div id="modal-foto">
+            <span class="fechar">&times;</span>
+            <img src="" alt="Foto Grande">
+        </div>
+    </section>
+    <script src="../js/fotos.js"></script>
+</body>
+</html>
