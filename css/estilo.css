@@ -400,7 +400,7 @@ section h3 {
   overflow: hidden;
   position: relative;
   cursor: pointer;
-  font-family: monospace;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   background: #8A2BE2;
   color: white;
@@ -460,6 +460,7 @@ color:white;
 
 .tabela-musicas tr:nth-child(even){
 background:#f5b7d3;
+color:black;
 }
 
 .barra-pesquisa{
