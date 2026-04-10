@@ -79,20 +79,21 @@ body {
     padding: 10px 25px;
     color: black;
     border-radius: 5px;
-    margin-right: 10%;
+    margin-right: 2%;
     margin-left: 2%;
 }
 
 #botao:hover {
     border: none;
-    background: #FFE600;
+    background: #87ceeb;
+    color: #8A2BE2;
 }
 
 .header {
     display: flex;
     flex-flow: row wrap;
     height: 600px;
-    background: #FFE600;
+    background: #8A2BE2;;
 }
 
 .cabecalho {
@@ -104,7 +105,7 @@ body {
 .cabecalho h2 {
     font-weight: 500;
     margin-top: -15px;
-    font-family: 'Bebas Neue', cursive;
+    font-family: "Bebas Neue", cursive;
     color:#FFFF;
      font-size: 100px;
 }
@@ -112,7 +113,7 @@ body {
 .cabecalho p {
     color: #272727;
     text-align: left;
-    margin-top: -25px;
+    margin-top: -60px;
 }
 
 .img {
@@ -166,7 +167,7 @@ section h3 {
     width: 100%;
     font-size: 30px;
     margin: 0;
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "Bebas Neue", cursive;
     font-weight: bold;
     color: black;
 }
@@ -247,15 +248,15 @@ section h3 {
     max-width: 450px;
     margin: 10px;
     padding: 20px;
-    border: 1px solid #FFE600;
+    border: 2px solid #FFE600;
     border-radius: 10px;
-    background: #FFC0CB;
+    background: #87ceeb;
     text-align: center;
 }
 
 .formulario h3 {
     font-family: "Gloria Hallelujah", cursive;
-    color: #FFE600;
+    color: black;
     margin-bottom: 20px;
 }
 
@@ -278,8 +279,8 @@ section h3 {
 }
 
 .formulario button {
-    background: black;
-    color: #FFC0CB;
+    background: #8A2BE2;
+    color: white;
     padding: 12px;
     border: none;
     border-radius: 5px;
@@ -303,7 +304,7 @@ section h3 {
 }
 
 .titulo {
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "Bebas Neue", cursive;
     font-size: 32px;
     color: black;
     margin-bottom: 20px;
@@ -316,7 +317,7 @@ section h3 {
     margin-bottom: 15px;
 }
 
-.novidades-section {
+.awards-playlist-section {
     padding: 15px 2.1%;
     text-align: center;
     display: flex;
@@ -327,26 +328,32 @@ section h3 {
 
 }
 
-.novidades-section h3 {
-    font-size: 40px;
-    font-family: "Gloria Hallelujah", cursive;
+.awards-playlist-section h3 {
+    font-size: 80px;
+    font-family: "Bebas Neue", cursive;
     color: black;
     margin-bottom: 10px;
 }
 
-.novidades-section p {
+.awards-playlist-section p {
     font-size: 18px;
     color: black;
     margin-bottom: 40px;
 }
 
-.novidades-grid {
+.awards-playlist-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 30px;
 }
 
-.novidade-card {
+.awards-img {
+    width: 200px;
+    margin-bottom: 10px; 
+    margin-left: 16%;
+}
+
+.awards-playlist-card {
     background: #FFC0CB;
     border: 2px solid #FFE600;
     border-radius: 12px;
@@ -359,7 +366,7 @@ section h3 {
     color: black;
 }
 
-.novidade-card:hover {
+.awards-playlist-card:hover {
     background: #8A2BE2;
     color: white;
     transform: translateY(-6px) scale(1.02);
@@ -367,7 +374,7 @@ section h3 {
     height: 100%;
 }
 
-.novidade-card::before {
+.awards-playlist-card::before {
     content: "";
     position: absolute;
     top: 0;
@@ -379,20 +386,22 @@ section h3 {
     transform: skewX(-15deg);
 }
 
-.novidade-card:hover::before {
+.awards-playlist-card:hover::before {
     left: 100%;
 }
 
-.novidade-card h4 {
+.awards-playlist-card h4 {
     margin-bottom: 10px;
     color: inherit;
     font-size: 20px;
+    text-align: center;
 }
 
-.novidade-card p {
+.awards-playlist-card p {
     font-size: 15px;
     line-height: 1.5;
     color: inherit;
+    text-align: center;
 }
 
 .codigo-colapsado {
@@ -427,7 +436,7 @@ section h3 {
   display: none;
 }
 
-.comentario { /* Seção Comentários */
+.comentario { 
     background: #FFC0CB;
     border: none;
     border-radius: 15px;
@@ -460,7 +469,7 @@ color:white;
 
 .tabela-musicas tr:nth-child(even){
 background:#f5b7d3;
-color:black;
+color: black;
 }
 
 .barra-pesquisa{
@@ -501,8 +510,66 @@ font-size:16px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 
+/* esconder input original */
+#fileInput{
+    display:none;
+}
+
+/* botão escolher arquivo */
+.botao-arquivo{
+    background: #FFC0CB;
+    border: 2px solid #FFE600;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    color: black;
+    font-weight: bold;
+}
+
+/* hover */
+.botao-arquivo:hover{
+    background: #8A2BE2;
+    color: white;
+    transform: translateY(-6px) scale(1.02);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+    height: 100%;
+    font-weight: bold;
+}
+
+/* botão enviar */
+#uploadBtn{
+    background: #FFC0CB;
+    border: 2px solid #FFE600;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    color: black;
+    font-weight: bold;
+    font-size: 16px; 
+}
+
+/* hover */
+#uploadBtn:hover{
+    background: #8A2BE2;
+    color: white;
+    transform: translateY(-6px) scale(1.02);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+    height: 100%;
+    font-weight: bold;
+}
+
 /* Seção da galeria */
 .secao-galeria {
+    display: flex;
+    flex-direction: column;
     background: #FFC0CB; /* mesmo fundo das seções */
     padding: 40px 10px;
     border: 2px solid #FFE600;
@@ -512,9 +579,9 @@ font-size:16px;
 }
 
 .secao-galeria h3 {
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "Bebas Neue", cursive;
     color: black;
-    font-size: 40px;
+    font-size: 80px;
     margin-bottom: 20px;
 }
 
@@ -551,4 +618,17 @@ font-size:16px;
     font-size: 40px;
     font-weight: bold;
     cursor: pointer;
+}
+
+.footer {
+    height: 100px;
+    background: #8A2BE2;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: right;
+    padding-bottom: -100px;
+    padding-top: 70px;
+    padding-right: 1%;
+    align-content: center;
+     border-top: 10px solid #87ceeb; 
 }

@@ -22,7 +22,7 @@
         <div class="menu">
             <a href="index.html">Home</a>
             <a href="awards.html">Awards</a>
-            <a style="color: #FFC0CB", href="fotos.html">Fotos</a>
+            <a href="fotos.html">Fotos</a>
             <a href="playlist.html">Playlist</a>
             <a id="botao" href="formulario.html">Contato</a>
         </div>
@@ -30,14 +30,25 @@
 
     <section class="secao-galeria">
         <h3>Galeria da Festa</h3>
-        <input type="file" id="fileInput"; class="botao">
-            <button id="uploadBtn"; class="botao">Enviar Foto</button>
+
+        <p>Aqui você pode enviar as fotos que tirar durante a festa para a nossa galeria.<br>PS:</p>
+        
+        <label class="botao-arquivo">
+            Escolher foto
+            <input type="file" id="fileInput">
+        </label>
+
+        <button id="uploadBtn">Enviar foto</button>
+        
         <div id="galeria"> <!-- As imagens enviadas pelo JS serão inseridas aqui --> </div>
         <div id="modal-foto">
             <span class="fechar">&times;</span>
             <img src="" alt="Foto Grande">
         </div>
     </section>
+    <footer class="footer">
+        <p>Copyright © 2026 - Let's Feeling 22. Todos os direitos reservados.</p>
+    </footer>
     <script src="js/fotos.js"></script>
 </body>
 </html>
