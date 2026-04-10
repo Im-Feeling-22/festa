@@ -26,13 +26,13 @@
   },
   {
     "codigo": 6,
-    "cantor": "AC",
-    "musica": "DC - BACK IN BLACK"
+    "cantor": "AC/DC",
+    "musica": "BACK IN BLACK"
   },
   {
     "codigo": 7,
-    "cantor": "AC",
-    "musica": "DC - HIGHWAY TO HELL"
+    "cantor": "AC/DC",
+    "musica": "HIGHWAY TO HELL"
   },
   {
     "codigo": 8,
@@ -66,13 +66,13 @@
   },
   {
     "codigo": 14,
-    "cantor": "A",
-    "musica": "HA - TAKE ON ME"
+    "cantor": "A HA",
+    "musica": "TAKE ON ME"
   },
   {
     "codigo": 15,
-    "cantor": "A",
-    "musica": "HA - THERES NEVER A FOREVER THING"
+    "cantor": "A HA",
+    "musica": "THERES NEVER A FOREVER THING"
   },
   {
     "codigo": 16,
