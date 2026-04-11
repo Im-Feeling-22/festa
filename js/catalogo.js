@@ -1,7 +1,7 @@
 let todasMusicas = [];
 
 // carregar o JSON
-fetch("/js/musicas.json")
+fetch("js/musicas.json?v=" + Date.now())
 .then(res => res.json())
 .then(data => {
 
