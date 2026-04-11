@@ -26,13 +26,13 @@
   },
   {
     "codigo": 6,
-    "cantor": "AC/DC",
-    "musica": "BACK IN BLACK"
+    "cantor": "AC",
+    "musica": "DC - BACK IN BLACK"
   },
   {
     "codigo": 7,
-    "cantor": "AC/DC",
-    "musica": "HIGHWAY TO HELL"
+    "cantor": "AC",
+    "musica": "DC - HIGHWAY TO HELL"
   },
   {
     "codigo": 8,
@@ -66,13 +66,13 @@
   },
   {
     "codigo": 14,
-    "cantor": "A HA",
-    "musica": "TAKE ON ME"
+    "cantor": "A",
+    "musica": "HA - TAKE ON ME"
   },
   {
     "codigo": 15,
-    "cantor": "A HA",
-    "musica": "THERES NEVER A FOREVER THING"
+    "cantor": "A",
+    "musica": "HA - THERES NEVER A FOREVER THING"
   },
   {
     "codigo": 16,
@@ -14153,5 +14153,475 @@
     "codigo": 2831,
     "cantor": "TWENTY ONE PILOTS",
     "musica": "STRESSED OUT"
+  },
+  {
+    "codigo": 2832,
+    "cantor": "O RAPPA",
+    "musica": "MINHA ALMA"
+  },
+  {
+    "codigo": 2833,
+    "cantor": "BARBIE",
+    "musica": "UNIDAS"
+  },
+  {
+    "codigo": 2834,
+    "cantor": "VIOLETTA",
+    "musica": "TE CREO"
+  },
+  {
+    "codigo": 2835,
+    "cantor": "VIOLETTA",
+    "musica": "SI ES POR AMOR"
+  },
+  {
+    "codigo": 2836,
+    "cantor": "VIOLETTA",
+    "musica": "EN GIRA"
+  },
+  {
+    "codigo": 2837,
+    "cantor": "VIOLETTA",
+    "musica": "EN MI MUNDO"
+  },
+  {
+    "codigo": 2838,
+    "cantor": "VIOLETTA",
+    "musica": "SALTA!"
+  },
+  {
+    "codigo": 2839,
+    "cantor": "VIOLETTA",
+    "musica": "SUPERCREATIVA"
+  },
+  {
+    "codigo": 2840,
+    "cantor": "VIOLETTA",
+    "musica": "TIENES EL TALENTO"
+  },
+  {
+    "codigo": 2841,
+    "cantor": "VIOLETTA",
+    "musica": "DESCUBRI"
+  },
+  {
+    "codigo": 2842,
+    "cantor": "VIOLETTA",
+    "musica": "ABRÁZAME Y VERÁS"
+  },
+  {
+    "codigo": 2843,
+    "cantor": "VIOLETTA",
+    "musica": "AMOR EN EL AIRE"
+  },
+  {
+    "codigo": 2844,
+    "cantor": "VIOLETTA",
+    "musica": "CRECIMOS JUNTOS"
+  },
+  {
+    "codigo": 2845,
+    "cantor": "VIOLETTA",
+    "musica": "ENCENDER NUESTRA LUZ"
+  },
+  {
+    "codigo": 2846,
+    "cantor": "VIOLETTA",
+    "musica": "TE FAZER FELIZ"
+  },
+  {
+    "codigo": 2847,
+    "cantor": "VIOLETTA",
+    "musica": "MÁS QUE DOS"
+  },
+  {
+    "codigo": 2848,
+    "cantor": "VIOLETTA",
+    "musica": "APRENDI A DECIR ADIÓS"
+  },
+  {
+    "codigo": 2849,
+    "cantor": "VIOLETTA",
+    "musica": "QUIERO"
+  },
+  {
+    "codigo": 2850,
+    "cantor": "VIOLETTA",
+    "musica": "A MI LADO"
+  },
+  {
+    "codigo": 2851,
+    "cantor": "VIOLETTA",
+    "musica": "SER QUIEN SOY"
+  },
+  {
+    "codigo": 2852,
+    "cantor": "VIOLETTA",
+    "musica": "FRIENDS 'TILL THE END"
+  },
+  {
+    "codigo": 2853,
+    "cantor": "VIOLETTA",
+    "musica": "ENTRE TU Y YO"
+  },
+  {
+    "codigo": 2854,
+    "cantor": "JORGE VERCILLO",
+    "musica": "HOMEM ARANHA"
+  },
+  {
+    "codigo": 2855,
+    "cantor": "CAMP ROCK",
+    "musica": "THIS IS ME"
+  },
+  {
+    "codigo": 2856,
+    "cantor": "CAMP ROCK",
+    "musica": "TOO COOL"
+  },
+  {
+    "codigo": 2857,
+    "cantor": "CAMP ROCK",
+    "musica": "WHO WILL I BE"
+  },
+  {
+    "codigo": 2858,
+    "cantor": "MACKLEMORE E RYAN LEWIS",
+    "musica": "CAN'T HOLD US"
+  },
+  {
+    "codigo": 2859,
+    "cantor": "ONE DIRECTION",
+    "musica": "NO CONTROL"
+  },
+  {
+    "codigo": 2860,
+    "cantor": "JORGE E MATEUS",
+    "musica": "CALMA"
+  },
+  {
+    "codigo": 2861,
+    "cantor": "LINKIN PARK",
+    "musica": "GIVEN UP"
+  },
+  {
+    "codigo": 2862,
+    "cantor": "MC MARCINHO",
+    "musica": "GLAMUROSA"
+  },
+  {
+    "codigo": 2863,
+    "cantor": "CIDINHO E DOCA",
+    "musica": "RAP DA FELICIDADE"
+  },
+  {
+    "codigo": 2864,
+    "cantor": "JUSTIN BIEBER E CHRIS BROWN",
+    "musica": "NEXT TO YOU"
+  },
+  {
+    "codigo": 2865,
+    "cantor": "MAGIC!",
+    "musica": "RUDE"
+  },
+  {
+    "codigo": 2866,
+    "cantor": "DAVID GUETA FEAT SIA",
+    "musica": "TITANIUM"
+  },
+  {
+    "codigo": 2867,
+    "cantor": "JOURNEY",
+    "musica": "DON'T STOP BELIEVIN'"
+  },
+  {
+    "codigo": 2868,
+    "cantor": "SKILLET",
+    "musica": "MONSTER"
+  },
+  {
+    "codigo": 2869,
+    "cantor": "SKILLET",
+    "musica": "FEEL INVINCIBLE"
+  },
+  {
+    "codigo": 2870,
+    "cantor": "SKILLET",
+    "musica": "THE RESISTANCE"
+  },
+  {
+    "codigo": 2871,
+    "cantor": "SKILLET",
+    "musica": "HERO"
+  },
+  {
+    "codigo": 2872,
+    "cantor": "LEAGUE OF LEGENDS",
+    "musica": "LEGENDS NEVER DIE"
+  },
+  {
+    "codigo": 2873,
+    "cantor": "SKILLET",
+    "musica": "AWAKE AND ALIVE"
+  },
+  {
+    "codigo": 2874,
+    "cantor": "SKILLET",
+    "musica": "COMATOSE"
+  },
+  {
+    "codigo": 2875,
+    "cantor": "FALL OUT BOY",
+    "musica": "CENTURIES"
+  },
+  {
+    "codigo": 2876,
+    "cantor": "THE SCRIPT FEAT WILL.I.AM",
+    "musica": "HALL OF FAME"
+  },
+  {
+    "codigo": 2877,
+    "cantor": "FALL OUT BOY",
+    "musica": "IMMORTALS"
+  },
+  {
+    "codigo": 2878,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "HOW IT'S DONE"
+  },
+  {
+    "codigo": 2879,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "GOLDEN"
+  },
+  {
+    "codigo": 2880,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "SODA POP"
+  },
+  {
+    "codigo": 2881,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "TAKEDOWN"
+  },
+  {
+    "codigo": 2882,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "YOUR IDOL"
+  },
+  {
+    "codigo": 2883,
+    "cantor": "KPOP DEMON HUNTERS",
+    "musica": "WHAT IT SOUNDS LIKE"
+  },
+  {
+    "codigo": 2884,
+    "cantor": "JUSTIN BIEBER",
+    "musica": "YUKON"
+  },
+  {
+    "codigo": 2885,
+    "cantor": "HAMILTON",
+    "musica": "ALEXANDER HAMILTON"
+  },
+  {
+    "codigo": 2886,
+    "cantor": "HAMILTON",
+    "musica": "AARON BURR, SIR"
+  },
+  {
+    "codigo": 2887,
+    "cantor": "HAMILTON",
+    "musica": "MY SHOT"
+  },
+  {
+    "codigo": 2888,
+    "cantor": "HAMILTON",
+    "musica": "SCHYLER SISTERS"
+  },
+  {
+    "codigo": 2889,
+    "cantor": "HAMILTON",
+    "musica": "YOU'LL BE BACK"
+  },
+  {
+    "codigo": 2890,
+    "cantor": "HAMILTON",
+    "musica": "HELPLESS"
+  },
+  {
+    "codigo": 2891,
+    "cantor": "HAMILTON",
+    "musica": "SATISFIED"
+  },
+  {
+    "codigo": 2892,
+    "cantor": "HAMILTON",
+    "musica": "TEN DUEL COMMANDMENTS"
+  },
+  {
+    "codigo": 2893,
+    "cantor": "HAMILTON",
+    "musica": "THE BATTLE OF YORKTOWN"
+  },
+  {
+    "codigo": 2894,
+    "cantor": "HAMILTON",
+    "musica": "NON-STOP"
+  },
+  {
+    "codigo": 2895,
+    "cantor": "HAMILTON",
+    "musica": "WHAT'D I MISS"
+  },
+  {
+    "codigo": 2896,
+    "cantor": "HAMILTON",
+    "musica": "CABINET BATTLE #1"
+  },
+  {
+    "codigo": 2897,
+    "cantor": "HAMILTON",
+    "musica": "WAIT FOR IT"
+  },
+  {
+    "codigo": 2898,
+    "cantor": "HAMILTON",
+    "musica": "GUNS AND SHIPS"
+  },
+  {
+    "codigo": 2899,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "THE OTHER SIDE"
+  },
+  {
+    "codigo": 2900,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "THIS IS ME"
+  },
+  {
+    "codigo": 2901,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "FROM NOW ON"
+  },
+  {
+    "codigo": 2902,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "THE GREATEST SHOW"
+  },
+  {
+    "codigo": 2903,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "COME ALIVE"
+  },
+  {
+    "codigo": 2904,
+    "cantor": "WALK THE MOON",
+    "musica": "SHUT UP AND DANCE"
+  },
+  {
+    "codigo": 2905,
+    "cantor": "BASTILLE",
+    "musica": "POMPEII"
+  },
+  {
+    "codigo": 2906,
+    "cantor": "IMAGINE DRAGONS",
+    "musica": "BONES"
+  },
+  {
+    "codigo": 2907,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "THE FATE OF OPHELIA"
+  },
+  {
+    "codigo": 2908,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "OPALITE"
+  },
+  {
+    "codigo": 2909,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "FATHER FIGURE"
+  },
+  {
+    "codigo": 2910,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "wHISH LIST"
+  },
+  {
+    "codigo": 2911,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "ELIZABETH TAYLOR"
+  },
+  {
+    "codigo": 2912,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "HONEY"
+  },
+  {
+    "codigo": 2913,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "ACTUALLY ROMANTIC"
+  },
+  {
+    "codigo": 2914,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "WOOD"
+  },
+  {
+    "codigo": 2915,
+    "cantor": "TAYLOR SWIFT",
+    "musica": "CANCELLED!"
+  },
+  {
+    "codigo": 2916,
+    "cantor": "TAYLOR SWIFT E SABRINA CARPENTER",
+    "musica": "THE LIFE OF A SHOWGIRL"
+  },
+  {
+    "codigo": 2917,
+    "cantor": "RAYE",
+    "musica": "WHERE IS MY HUSBAND!"
+  },
+  {
+    "codigo": 2918, 
+    "cantor": "MANESKIN",
+    "musica": "BEGGIN'"
+  },
+  {
+    "codigo": 2919,
+    "cantor": "MANESKIN",
+    "musica": "I WANNA BE YOUR SLAVE"
+  },
+  {
+    "codigo": 2920,
+    "cantor": "RICKY MARTIN",
+    "musica": "LIVIN LA VIDA LOCA"
+  },
+  {
+    "codigo": 2921,
+    "cantor": "SABRINA CARPENTER",
+    "musica": "MAN CHILD"
+  },
+  {
+    "codigo": 2922,
+    "cantor": "SABRINA CARPENTER",
+    "musica": "TEARS"
+  },
+  { 
+    "codigo": 2923,
+    "cantor": "SABRINA CARPENTER",
+    "musica": "PLEASE PLEASE PLEASE"
+  },
+  {
+    "codigo": 2924,
+    "cantor": "SABRINA CARPENTER",
+    "musica": "NONSENSE"
+  },
+  {
+    "codigo": 2925,
+    "cantor": "SABRINA CARPENTER",
+    "musica": "JUNO"
   }
 ]

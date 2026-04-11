@@ -1,9 +1,13 @@
 let todasMusicas = [];
 
 // carregar o JSON
-fetch("js/musicas.json")
+fetch("/js/musicas.json")
 .then(res => res.json())
 .then(data => {
+
+    data.sort((a, b) => 
+    a.cantor.localeCompare(b.cantor, "pt-BR", { sensitivity: "base" })
+    );
 
     todasMusicas = data;
 
