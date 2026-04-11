@@ -14660,69 +14660,254 @@
     "musica": "THAT BEAUTIFUL SOUND"
   },
   {
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2933,
+    "cantor": "HAMILTON",
+    "musica": "SAY NO TO THIS"
   },
   {
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2934,
+    "cantor": "HAMILTON",
+    "musica": "THE ELECTION OF 1800"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2935,
+    "cantor": "HAMILTON",
+    "musica": "FIRST BURN"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2936,
+    "cantor": "HAMILTON",
+    "musica": "YOUR OBEDIANT SERVANT"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2937,
+    "cantor": "HAMILTON",
+    "musica": "THE WORLD WAS WIDE ENOUGH"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2938,
+    "cantor": "HAMILTON",
+    "musica": "THE ROOM WHERE IT HAPPENS"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2939,
+    "cantor": "WICKED",
+    "musica": "DANCING THROUGH LIFE"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2940,
+    "cantor": "WICKED",
+    "musica": "DEFYING GRAVITY"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2941,
+    "cantor": "EPIC",
+    "musica": "THE HORSE AND THE INFANT"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2942,
+    "cantor": "EPIC",
+    "musica": "JUST A MAN"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2943,
+    "cantor": "EPIC",
+    "musica": "FULL SPEED AHEAD"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2944,
+    "cantor": "EPIC",
+    "musica": "OPEN ARMS"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2945,
+    "cantor": "EPIC",
+    "musica": "WARRIOR OF THE MIND"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2946,
+    "cantor": "EPIC",
+    "musica": "POLYPHEMUS"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2947,
+    "cantor": "EPIC",
+    "musica": "SURVIVE"
   },{
-    "codigo": ,
-    "cantor": ,
-    "musica":
+    "codigo": 2948,
+    "cantor": "EPIC",
+    "musica": "REMEMBER THEM"
   },
+  {
+    "codigo": 2949,
+    "cantor": "EPIC",
+    "musica": "MY GOODBYE"
+  },
+  {
+    "codigo": 2950,
+    "cantor": "EPIC",
+    "musica": "STORM"
+  },
+  {
+    "codigo": 2951,
+    "cantor": "EPIC",
+    "musica": "LUCK RUNS OUT"
+  },
+  {
+    "codigo": 2952,
+    "cantor": "EPIC",
+    "musica": "KEEP YOUR FRIENDS CLOSE"
+  },
+  {
+    "codigo": 2953,
+    "cantor": "EPIC",
+    "musica": "RUTHLESSNESS"
+  },
+  {
+    "codigo": 2954,
+    "cantor": "EPIC",
+    "musica": "PUPPETEER"
+  },
+  {
+    "codigo": 2955,
+    "cantor": "EPIC",
+    "musica": "WOULDN'T YOU LIKE"
+  },
+  {
+    "codigo": 2956,
+    "cantor": "EPIC",
+    "musica": "DONE FOR"
+  },
+  {
+    "codigo": 2957,
+    "cantor": "EPIC",
+    "musica": "THERE ARE OTHER WAYS"
+  },
+  {
+    "codigo": 2958,
+    "cantor": "EPIC",
+    "musica": "THE UNDERWORLD"
+  },
+  {
+    "codigo": 2959,
+    "cantor": "EPIC",
+    "musica": "NO LONGER YOU"
+  },
+  {
+    "codigo": 2960,
+    "cantor": "EPIC",
+    "musica": "MONSTER"
+  },
+  {
+    "codigo": 2961,
+    "cantor": "EPIC",
+    "musica": "SUFFERING"
+  },
+  {
+    "codigo": 2962,
+    "cantor": "EPIC",
+    "musica": "DIFFERENT BEAST"
+  },
+  {
+    "codigo": 2963,
+    "cantor": "EPIC",
+    "musica": "SCYLLA"
+  },
+  {
+    "codigo": 2964,
+    "cantor": "EPIC",
+    "musica": "MUTINITY"
+  },
+  {
+    "codigo": 2965,
+    "cantor": "EPIC",
+    "musica": "THUNDER BRINGER"
+  },
+  {
+    "codigo": 2966,
+    "cantor": "EPIC",
+    "musica": "LEGENDARY"
+  },
+  {
+    "codigo": 2967,
+    "cantor": "EPIC",
+    "musica": "LITTLE WOLF"
+  },
+  {
+    "codigo": 2968,
+    "cantor": "EPIC",
+    "musica": "WE'LL BE FINE"
+  },
+  {
+    "codigo": 2969,
+    "cantor": "EPIC",
+    "musica": "LOVE IN PARADISE"
+  },
+  {
+    "codigo": 2970,
+    "cantor": "EPIC",
+    "musica": "GOD GAMES"
+  },
+  {
+    "codigo": 2971,
+    "cantor": "EPIC",
+    "musica": "NOT SORRY FOR LOVING YOU"
+  },
+  {
+    "codigo": 2972,
+    "cantor": "EPIC",
+    "musica": "DANGEROUS"
+  },
+  {
+    "codigo": 2973, 
+    "cantor": "EPIC",
+    "musica": "CHARYBDIS"
+  },
+  {
+    "codigo": 2974,
+    "cantor": "EPIC",
+    "musica": "GET IN THE WATER"
+  },
+  {
+    "codigo": 2975,
+    "cantor": "EPIC",
+    "musica": "SIX HUNDRED STRIKE"
+  },
+  {
+    "codigo": 2976,
+    "cantor": "EPIC",
+    "musica": "THE CHALLENGE"
+  },
+  {
+    "codigo": 2977,
+    "cantor": "EPIC",
+    "musica": "HOLD THEM DOWN"
+  },
+  {
+    "codigo": 2978,
+    "cantor": "EPIC",
+    "musica": "ODYSSEUS"
+  },
+  {
+    "codigo": 2979,
+    "cantor": "EPIC",
+    "musica": "I CAN'T HELP BUT WONDER"
+  },
+  {
+    "codigo": 2980,
+    "cantor": "EPIC",
+    "musica": "WOULD YOU FALL IN LOVE WITH ME AGAIN"
+  },
+  {
+    "codigo": 2981,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "A MILLION DREAMS"
+  },
+  {
+    "codigo": 2982,
+    "cantor": "THE GREATEST SHOWMAN",
+    "musica": "REWRITE THE STARS"
+  },
+  {
+    "codigo": 2983,
+    "cantor": "SIX",
+    "musica": "DON'T LOSE UR HEAD"
+  },
+  {
+    "codigo": 2984,
+    "cantor": "SIX",
+    "musica": "ALL YOU WANNA DO"
+  },
+  {
+    "codigo": 2985,
+    "cantor": "SIX",
+    "musica": "EX WIVES"
+  }
 ]
