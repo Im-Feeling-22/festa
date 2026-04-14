@@ -495,7 +495,8 @@ font-size:16px;
     max-width: 1200px;
 }
 
-#galeria img {
+#galeria img,
+#galeria video {
     width: 250px;
     height: 250px;
     object-fit: cover; /* mantém proporção da foto sem distorcer */
@@ -505,7 +506,8 @@ font-size:16px;
     cursor: pointer;
 }
 
-#galeria img:hover {
+#galeria img:hover,
+#galeria video:hover {
     transform: scale(1.05);
     box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
