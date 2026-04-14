@@ -73,7 +73,6 @@ window.addEventListener("load", () => {
       "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139280/VID-20260413-WA0179_vwjjig.mp4",
       "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139282/VID-20260413-WA0168_y67lj7.mp4",
       "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139282/VID-20260413-WA0167_b7ebm4.mp4",
-      "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139282/VID-20260413-WA0167_b7ebm4.mp4",
       "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139283/VID-20260413-WA0165_jhdlwc.mp4",
       "https://res.cloudinary.com/dvpzenktl/video/upload/v1776139287/VID-20260413-WA0177_d9t7mp.mp4",
         //Awards
