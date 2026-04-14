@@ -39,12 +39,29 @@ window.addEventListener("load", () => {
     fotosExistentes.forEach(url => mostrarFoto(url));
 
     function mostrarFoto(url) {
+        
+        if(url.endsWith(".mp4")) {
+
+            const video = document.createElement("video");
+            video.src = url;
+
+            video.controls = true;
+            video.preload = "metadata";
+            
+            video.style.width = "200px";
+            video.style.margin = "5px";
+
+            galeria.appendChild(video);
+            
+        } else {
+
         const img = document.createElement("img");
         img.src = url;
         img.style.width = "200px";
         img.style.margin = "5px";
         galeria.appendChild(img);
-    }
+        }
+    }    
 
     // Upload
     uploadBtn.addEventListener("click", async () => {
