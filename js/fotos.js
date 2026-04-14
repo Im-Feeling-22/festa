@@ -28,7 +28,7 @@ window.addEventListener("load", () => {
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776135269/vl6wodhzq6loigblv4qt.jpg",
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776135279/w0qtnzriuyym2p7kzojn.jpg",
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776135413/rn0hb2migywgsucjpuu2.jpg",
-      "https://res.cloudinary.com/dvpzenktl/video/upload/v1776135435/qfjl6quadcsqzfzuvohv.mov",
+      "https://res.cloudinary.com/dvpzenktl/video/upload/v1776135435/qfjl6quadcsqzfzuvohv.mp4",
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776137353/IMG-20260413-WA0209_mn1kks.jpg",
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776137353/IMG-20260413-WA0207_s8rvwk.jpg",
       "https://res.cloudinary.com/dvpzenktl/image/upload/v1776137353/IMG-20260413-WA0210_g1lj7h.jpg",
